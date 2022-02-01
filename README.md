@@ -1,4 +1,4 @@
-# Intercambio-de-calor-din-mico
+# Intercambio-de-calor-dinámico
 Almacenamiento de gráficas dinámicas obtenidas de los experimentos
 
 link="https://github.com/coraimadcc/Intercambio-de-calor-din-mico/blob/main/P1malla20%2C15.gif"
